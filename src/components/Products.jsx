@@ -18,7 +18,7 @@ function Products() {
         "A personal portfolio website built with ReactJS & Framer Motion offers a dynamic, responsive experience, using smooth animations & transitions to showcase projects & skills interactively.",
       live: true,
       case: false,
-      color: "hover:bg-indigo-600",
+      color: "hover:bg-indigo-800",
     },
     {
       title: "Cultural Heritage & Museum",
@@ -63,7 +63,7 @@ function Products() {
     {
       title: "Framer Motion Elements",
       description:
-        "We celebrated our first year with a Showcase Website that reflects on a year of growth, building an awesome team & culture, defining our br&, & more.",
+        "A draggable cards interface with Framer Motion allows users to smoothly move and reorder cards for an engaging experience.",
       live: true,
       case: false,
       color: "hover:bg-green-800",
@@ -71,7 +71,7 @@ function Products() {
     {
       title: "Gradlers UI Design",
       description:
-        "We celebrated our first year with a Showcase Website that reflects on a year of growth, building an awesome team & culture, defining our br&, & more.",
+        "A Gradlers UI design created with Figma features an intuitive interface, enabling seamless user navigation and interactions through visually appealing layouts and components.",
       live: true,
       case: false,
       color: "hover:bg-orange-600",
@@ -79,7 +79,7 @@ function Products() {
     {
       title: "Aistear Unica UI Design",
       description:
-        "We celebrated our first year with a Showcase Website that reflects on a year of growth, building an awesome team & culture, defining our br&, & more.",
+        "Aistear Unica, an online parlour service built with Figma and React, provides a user-friendly interface for seamless booking and service navigation.",
       live: true,
       case: false,
       color: "hover:bg-pink-500",
@@ -155,28 +155,28 @@ function Products() {
             className="w-full h-full rounded-sm"
             transition={{ duration: 0.4, ease: [0.76, 0, 0.24, 1] }}
           >
-            <video muted autoPlay loop src="src\assets\vid-6.webm"></video>
+            <video muted autoPlay loop src="src\assets\vid-7.webm"></video>
           </motion.div>
           <motion.div
             animate={{ y: -pos + `rem` }}
             className="w-full h-full rounded-sm"
             transition={{ duration: 0.4, ease: [0.76, 0, 0.24, 1] }}
           >
-            <video muted autoPlay loop src="src\assets\vid-6.webm"></video>
+            <video muted autoPlay loop src="src\assets\vid-8.webm"></video>
           </motion.div>
           <motion.div
             animate={{ y: -pos + `rem` }}
             className="w-full h-full rounded-sm"
             transition={{ duration: 0.4, ease: [0.76, 0, 0.24, 1] }}
           >
-            <video muted autoPlay loop src="src\assets\vid-6.webm"></video>
+            <video muted autoPlay loop src="src\assets\vid-9.webm"></video>
           </motion.div>
           <motion.div
             animate={{ y: -pos + `rem` }}
             className="w-full h-full rounded-sm"
             transition={{ duration: 0.4, ease: [0.76, 0, 0.24, 1] }}
           >
-            <video muted autoPlay loop src="src\assets\vid-6.webm"></video>
+            <video muted autoPlay loop src="src\assets\vid-10.webm"></video>
           </motion.div>
         </motion.div>
       </div>
