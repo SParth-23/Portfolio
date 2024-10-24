@@ -1,22 +1,26 @@
 # Portfolio Website
-A personal portfolio website built using React.js, Framer Motion, and TailwindCSS to showcase my projects, skills, and professional background. This website provides a responsive and animated experience to present my work and journey.
+A personal portfolio website built using React.js, Framer Motion, and TailwindCSS to showcase my projects, skills, and professional background. This website provides a responsive and animated experience to present my work and journey.[Portfolio.webm](https://github.com/user-attachments/assets/742c857b-2dd9-4795-9c07-08a06c2c12f1)
 
-## Table of Contents
-Features
-Technologies Used
-Installation
-Contact
-Preview
+## Preview
+![image](https://github.com/user-attachments/assets/45dc1953-15ec-4037-ba8e-c3d1ad2c0691)
+
+[Portfolio.webm](https://github.com/user-attachments/assets/37fe21fa-6e32-4e98-8a8a-293a734dab25)
+
+![image](https://github.com/user-attachments/assets/372f96d5-6712-4fbd-9a7d-2b86be36ec7a)
+
+![image](https://github.com/user-attachments/assets/528b6c72-368a-4754-bcb4-850e85bef891)
 
 ## Features
-React.js Framework: A modern JavaScript library for building interactive user interfaces.
-Framer Motion Animations: Smooth animations and transitions for a dynamic user experience.
-TailwindCSS: Utility-first CSS framework for fast and responsive styling.
+React.js Framework: A modern JavaScript library for building interactive user interfaces.</br>
+Framer Motion Animations: Smooth animations and transitions for a dynamic user experience.</br>
+TailwindCSS: Utility-first CSS framework for fast and responsive styling.</br>
+Locomotive JS: Locomotive scroll for smooth scrolling experience.</br>
 
 ## Technologies Used
-React.js: JavaScript library for building the UI.
-Framer Motion: For animations and smooth transitions between sections.
-TailwindCSS: For rapid and responsive styling using utility-first classes.
+React.js: JavaScript library for building the UI.</br>
+Framer Motion: For animations and smooth transitions between sections.</br>
+TailwindCSS: For rapid and responsive styling using utility-first classes.</br>
+Locomotive-Scroll: For smooth scrolling experience.</br>
 
 ## Installation
 To set up the project locally, follow these steps:
@@ -32,10 +36,11 @@ To set up the project locally, follow these steps:
 4. Run the project locally:
    ```bash
    npm run dev
-  Open the app in your browser at http://localhost:3000.
+  Open the app in your browser at http://localhost:5173.
 
 ## Contact
 Feel free to reach out if you have any questions or suggestions:
 
-Email: parthsinghal23.cs@gmail.com
+Email: parthsinghal23.cs@gmail.com</br>
 LinkedIn: linkedin.com/in/parth-singhal-cs
+
