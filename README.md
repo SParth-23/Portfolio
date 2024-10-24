@@ -1,4 +1,4 @@
-#Portfolio Website
+# Portfolio Website
 A personal portfolio website built using React.js, Framer Motion, and TailwindCSS to showcase my projects, skills, and professional background. This website provides a responsive and animated experience to present my work and journey.
 
 ## Table of Contents
