@@ -1,5 +1,5 @@
 # Portfolio Website
-A personal portfolio website built using React.js, Framer Motion, and TailwindCSS to showcase my projects, skills, and professional background. This website provides a responsive and animated experience to present my work and journey.[Portfolio.webm](https://github.com/user-attachments/assets/742c857b-2dd9-4795-9c07-08a06c2c12f1)
+A personal portfolio website built using React.js, Framer Motion, and TailwindCSS to showcase my projects, skills, and professional background. This website provides a responsive and animated experience to present my work and journey.
 
 ## Preview
 ![image](https://github.com/user-attachments/assets/45dc1953-15ec-4037-ba8e-c3d1ad2c0691)
