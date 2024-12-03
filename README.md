@@ -41,6 +41,5 @@ To set up the project locally, follow these steps:
 ## Contact
 Feel free to reach out if you have any questions or suggestions:
 
-Email: parthsinghal23.cs@gmail.com</br>
+Email: parthsinghal23.cs@gmail.com
 LinkedIn: linkedin.com/in/parth-singhal-cs
-
